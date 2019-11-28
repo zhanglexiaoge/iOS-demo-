@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NextViewController</key>
+	<array>
+		<dict>
+			<key>EventSelName</key>
+			<string>handelButtonTest:</string>
+			<key>EventId</key>
+			<string>click_open</string>
+		</dict>
+		<dict>
+			<key>EventSelName</key>
+			<string>handelButton1:</string>
+			<key>EventId</key>
+			<string>click_openlogin</string>
+		</dict>
+		<dict>
+			<key>EventSelName</key>
+			<string>handeltapTest:</string>
+			<key>EventId</key>
+			<string>click_opentap</string>
+		</dict>
+		<dict>
+			<key>EventSelName</key>
+			<string>handeltap1:</string>
+			<key>EventId</key>
+			<string>click_opentap1</string>
+		</dict>
+	</array>
+	<key>HomeViewController</key>
+	<array>
+		<dict>
+			<key>EventId</key>
+			<string>click_opennext1</string>
+			<key>EventSelName</key>
+			<string>tableView:didSelectRowAtIndexPath:</string>
+		</dict>
+	</array>
+	<key>HomeViewCell</key>
+	<array>
+		<dict>
+			<key>EventId</key>
+			<string>click_opennext</string>
+			<key>EventSelName</key>
+			<string>handleCellButton:</string>
+		</dict>
+	</array>
+</dict>
+</plist>

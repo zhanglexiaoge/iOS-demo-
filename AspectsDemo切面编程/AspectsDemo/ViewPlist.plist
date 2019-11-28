@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NextTwoViewController</key>
+	<dict>
+		<key>NextTwoViewControllerviewWillDisappear</key>
+		<string>click_openviewWillDisappear</string>
+		<key>NextTwoViewControllerviewWillAppear</key>
+		<string>click_openviewWillAppear</string>
+	</dict>
+	<key>LoginViewController</key>
+	<dict>
+		<key>LoginViewControllerviewWillDisappear</key>
+		<string>clik_loginviewWillDisappear</string>
+		<key>LoginViewControllerviewWillAppear</key>
+		<string>clik_loginviewWillAppear</string>
+	</dict>
+</dict>
+</plist>
